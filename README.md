@@ -38,6 +38,20 @@ Exchange_Rate_Analysis/
 └── 📁 data/                           # Raw and processed datasets
 ```
 
+## 📓 **View Notebooks with Full Outputs**
+*GitHub may not render large notebooks properly. Use these nbviewer links to see all outputs, charts, and visualizations:*
+
+| Notebook | Description | GitHub | 🔗 NBViewer (Full Outputs) |
+|----------|-------------|--------|----------------------------|
+| 🧹 **Data Cleaning** | Data preprocessing & validation | [GitHub](02_data_cleaning.ipynb) | [📊 **View Full Analysis**](https://nbviewer.jupyter.org/github/RohanBhoge15/Currency-Exchange-Rate-Analysis/blob/main/02_data_cleaning.ipynb) |
+| 🔍 **Exploratory Analysis** | EDA & pattern discovery | [GitHub](03_exploratory_analysis.ipynb) | [📊 **View Full Analysis**](https://nbviewer.jupyter.org/github/RohanBhoge15/Currency-Exchange-Rate-Analysis/blob/main/03_exploratory_analysis.ipynb) |
+| 📊 **Statistical Analysis** | Hypothesis testing & modeling | [GitHub](04_statistical_analysis.ipynb) | [📊 **View Full Analysis**](https://nbviewer.jupyter.org/github/RohanBhoge15/Currency-Exchange-Rate-Analysis/blob/main/04_statistical_analysis.ipynb) |
+| 🚨 **Economic Events** | Crisis impact analysis | [GitHub](05_economic_events.ipynb) | [📊 **View Full Analysis**](https://nbviewer.jupyter.org/github/RohanBhoge15/Currency-Exchange-Rate-Analysis/blob/main/05_economic_events.ipynb) |
+| ⏰ **Time Series Analysis** | Forecasting & decomposition | [GitHub](06_time_series_analysis.ipynb) | [📊 **View Full Analysis**](https://nbviewer.jupyter.org/github/RohanBhoge15/Currency-Exchange-Rate-Analysis/blob/main/06_time_series_analysis.ipynb) |
+| 🎯 **Advanced Analytics** | Risk metrics & optimization | [GitHub](07_advanced_analytics.ipynb) | [📊 **View Full Analysis**](https://nbviewer.jupyter.org/github/RohanBhoge15/Currency-Exchange-Rate-Analysis/blob/main/07_advanced_analytics.ipynb) |
+
+> **💡 Pro Tip**: Click the "📊 **View Full Analysis**" links to see all charts, outputs, and interactive visualizations that may not display on GitHub!
+
 ---
 
 ## 🔬 Methodology & Analysis Framework
