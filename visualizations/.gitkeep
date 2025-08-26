@@ -1,0 +1,11 @@
+# Visualizations Directory
+
+This directory will contain all generated charts, plots, and visualizations from the analysis.
+
+## Structure:
+- static_plots/     # Matplotlib/Seaborn charts
+- interactive/      # Plotly HTML files  
+- dashboard_exports/ # Dashboard screenshots
+- reports/          # Generated report figures
+
+Generated automatically by the analysis notebooks.

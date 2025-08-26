@@ -1,0 +1,15 @@
+{
+  "total_records": 13923,
+  "countries": 191,
+  "time_periods": 63,
+  "date_range": "2001-03-01 00:00:00 to 2016-09-01 00:00:00",
+  "missing_exchange_rates": "2183",
+  "missing_percentage": "15.68%",
+  "outliers_detected": 1652,
+  "features_created": [
+    "quarterly_return",
+    "log_return",
+    "volatility_4q",
+    "ma_4q"
+  ]
+}
